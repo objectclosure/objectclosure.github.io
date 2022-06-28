@@ -4,7 +4,7 @@ object of type 'closure' is not subsettable.
 
 ----
 
-<br/><br/>
+&nbsp;
 
 # blog
 
