@@ -1,7 +1,5 @@
-# objectclosure.github.io
+# objectclosure
 
-object of type 'closure' is not subsettable.
-
-----
-
-&nbsp;
+```
+Error: object of type 'closure' is not subsettable
+```
