@@ -1,0 +1,7 @@
+---
+title: "Object of type closure"
+---
+
+Hi!
+
+It's me, object of type closure. I'm **not** subsettable, btw.

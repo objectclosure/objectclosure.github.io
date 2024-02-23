@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Error: object of type 'closure' is not subsettable"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Object of type closure",
+    "section": "",
+    "text": "Hi!\nIt’s me, object of type closure. I’m not subsettable, btw."
+  }
+]
